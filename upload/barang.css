@@ -1,39 +1,39 @@
-/*h1
+h1
 {
 	margin: auto;
 	font-family: arial;
 	margin-top: 100px;
-*/
+
 }
 
-/*body
+body
 {
 	background-color: tomato;
 	font-family: century gothic, arial, san-serif;
 	line-height: 1.5;
-}*/
+}
 
-/*form
+form
 {
 	background-color: tomato;
 	margin:auto;
 	margin-top: 10px;
 	width: 350px;
-}*/
+}
 
-/*label
+label
 {
 	margin:5px;
-}*/
+}
 
-/*input, select
+input, select
 {
 	margin:5px;
 	font-size: 15px;
 	width: 300px;
-}*/
+}
 
-/*input:hover
+input:hover
 {
 	background-color: tomato;
-}*/
+}
